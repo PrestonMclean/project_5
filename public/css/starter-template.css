@@ -14,7 +14,7 @@ footer {
   font-size: 1.2em;
 }
 .active>.nav-link {
-  color: hotpink !important;
+  color: #2a9d8f !important;
 }
 
 .navbar-brand {
